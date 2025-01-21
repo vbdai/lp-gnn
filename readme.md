@@ -1,6 +1,6 @@
 # Smart Initial Basis Selection for Linear Programs
 
-### This notebook contains the implmenetation of the paper 'Smart Initial Basis Selection for Linear Programs' published in ICML2023.
+### This repo contains the implmenetation of the paper 'Smart Initial Basis Selection for Linear Programs' published in ICML2023.
 https://openreview.net/forum?id=Mha86sOok1
 
 ## Overview 
