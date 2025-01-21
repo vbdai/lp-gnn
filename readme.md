@@ -1,6 +1,7 @@
 # Smart Initial Basis Selection for Linear Programs
 
-This notebook demonstrate a GNN-based smart initial basis selection method, a novel algorithm developed by Vancouver Big Data and Intelligence Lab, Huawei Canada. 
+### This notebook contains the implmenetation of the paper 'Smart Initial Basis Selection for Linear Programs' published in ICML2023.
+https://openreview.net/forum?id=Mha86sOok1
 
 ## Overview 
 
