@@ -1,7 +1,10 @@
 # Smart Initial Basis Selection for Linear Programs
 
 ### This repo contains the implmenetation of the paper 'Smart Initial Basis Selection for Linear Programs' published in ICML2023.
-https://openreview.net/forum?id=Mha86sOok1
+
+Link to arXiv paper: https://openreview.net/forum?id=Mha86sOok1
+
+Link to Huawei's AI Gallery Notebook: [https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=58b799a0-5cfc-4c2e-8b9b-440bb2315264](https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=ce45dd10-44ce-43bb-89c8-1f3277f1132d)
 
 ## Overview 
 
